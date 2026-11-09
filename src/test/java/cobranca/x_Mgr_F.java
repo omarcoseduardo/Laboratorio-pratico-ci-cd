@@ -1,3 +1,5 @@
+package cobranca;
+
 /** Código legado mantido SOMENTE para comparar resultados no teste. */
 public class x_Mgr_F {
     public double calc(int tp, double[] vls, boolean st) {

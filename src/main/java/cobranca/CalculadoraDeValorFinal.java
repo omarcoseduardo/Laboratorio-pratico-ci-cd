@@ -1,3 +1,5 @@
+package cobranca;
+
 /**
  * Orquestra o cálculo: soma os procedimentos e delega o ajuste
  * à política de cobrança adequada.

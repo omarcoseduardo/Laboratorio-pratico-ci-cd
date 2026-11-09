@@ -1,3 +1,5 @@
+package cobranca;
+
 /**
  * Política do tipo de consulta 2 (particular).
  * Aplica 5% de desconto somente quando o subtotal ultrapassa o limite.

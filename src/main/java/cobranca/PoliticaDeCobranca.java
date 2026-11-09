@@ -1,3 +1,5 @@
+package cobranca;
+
 /**
  * Contrato (Strategy) de uma política de cobrança.
  * Cada tipo de consulta implementa a sua própria regra.

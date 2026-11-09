@@ -1,3 +1,5 @@
+package cobranca;
+
 /**
  * Validação de manutenção de comportamento: compara o código novo
  * com o legado e com o valor esperado calculado à mão.

@@ -1,3 +1,5 @@
+package cobranca;
+
 /**
  * Factory responsável por escolher a política de cobrança conforme o tipo de consulta.
  * Para criar um novo tipo, basta criar uma nova política e registrá-la aqui.

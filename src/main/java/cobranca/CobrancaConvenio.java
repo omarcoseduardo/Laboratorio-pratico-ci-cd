@@ -1,3 +1,5 @@
+package cobranca;
+
 /**
  * Política do tipo de consulta 1 (convênio).
  * Aplica 12% de desconto e, depois do desconto, o acréscimo fixo (se solicitado).
